@@ -19,6 +19,7 @@
     "@vue/vue3-jest": "^27.0.0-alpha.4",
     "babel-core": "^7.0.0-beta.3",
     "babel-jest": "27",
+    "braces": "^2.3.1",
     "eslint": "^8.6.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-jest": "^25.3.4",
